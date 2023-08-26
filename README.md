@@ -12,12 +12,14 @@ Currently, I am responsible for the maintenance of a membership-based website, h
 ### スキル（Skill）
 - プログラミング言語：Java、HTML、CSS、C#、JavaScript、VB.NET(ASP.NET)
 - データベース：MySQL、PostgreSQL
+- OS:Windows
 - バージョン管理：Git、SVN、TFS
 - その他：BizRobo!(RPA)
 
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 - Programming Languages: Java, HTML, CSS, C#, JavaScript, VB.NET (ASP.NET)
 - Databases: MySQL, PostgreSQL
+- OS:Windows
 - Version Control: Git, SVN, TFS
 - Other: BizRobo! (RPA)
 
